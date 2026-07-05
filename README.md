@@ -1,10 +1,14 @@
 <div align="center">
 
 # Umar Khan
-### Data Scientist & ML Engineer
+
+![Visitor Count](https://komarev.com/ghpvc/?username=umarkhan0206&color=00D4AA&style=flat-square&label=Profile+Views)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+ML+Engineer;Healthcare+AI+%7C+FinTech+%7C+NLP;Building+things+that+actually+work)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-umarkhan0206.github.io-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umarkhan0206.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-umarkhan0206-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umarkhan0206)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-umarkhan0206-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/umarkhan0206)
 [![Email](https://img.shields.io/badge/Email-umarkhaan0206@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umarkhaan0206@gmail.com)
 
 **MSc Advanced Computer Science · University of Leeds · Graduating September 2026**
@@ -52,7 +56,6 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -66,6 +69,7 @@
 <div align="center">
 
 **Open to graduate data science and ML engineering roles in the UK**
+
 **No sponsorship required from September 2026**
 
 </div>
