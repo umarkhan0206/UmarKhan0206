@@ -52,13 +52,12 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarkhan0206&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E1A&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarkhan0206&layout=compact&theme=dark&hide_border=true&bg_color=0A0E1A&title_color=00D4AA&text_color=ffffff)
+![GitHub streak](https://streak-stats.demolab.com?user=umarkhan0206&theme=dark&hide_border=true&background=0A0E1A&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA)
 
 </div>
 
