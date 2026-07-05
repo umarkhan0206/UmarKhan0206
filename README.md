@@ -1,22 +1,72 @@
+<div align="center">
 
-# Umar Khan — Data Scientist & ML Engineer
+# Umar Khan
+### Data Scientist & ML Engineer
 
-MSc Advanced Computer Science · University of Leeds · Graduating September 2026
+[![Portfolio](https://img.shields.io/badge/Portfolio-umarkhan0206.github.io-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umarkhan0206.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-umarkhan0206-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umarkhan0206)
+[![Email](https://img.shields.io/badge/Email-umarkhaan0206@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umarkhaan0206@gmail.com)
 
-I build end-to-end ML systems and evaluate them honestly — not just until they look good, but until I can prove they actually work.
+**MSc Advanced Computer Science · University of Leeds · Graduating September 2026**
 
-## Featured Projects
+*I build end-to-end ML systems and evaluate them honestly — not just until they look good, but until I can prove they actually work.*
 
-🔴 **[Redline](https://github.com/umarkhan0206/uk-financial-risk-intelligence)** — RAG system reading real UK Companies House filings to detect financial distress. Evaluated against 16 real insolvency cases. 87.1% accuracy. 100% local, zero API cost.
+---
 
-🧠 **[MedIntent](https://github.com/umarkhan0206/medical-intent-classifier)** — DistilBERT NHS triage classifier. Started at 18% real-world reliability after a misleading 100% test score. Fixed across 12 LIME-diagnosed iterations to 92.3%.
+</div>
 
-🏥 **[AppointIQ](https://github.com/umarkhan0206/AppointIQ)** — ML pipeline predicting NHS appointment no-shows across 2.2M+ GP records. 83% accuracy, 74.4% recall.
+## 🔴 Featured Projects
 
-## Tech Stack
-Python · PyTorch · Hugging Face · ChromaDB · Scikit-learn · XGBoost · FastAPI · Streamlit · SQL
+| Project | What it does | Key result |
+|---|---|---|
+| [**Redline**](https://github.com/umarkhan0206/uk-financial-risk-intelligence) | RAG system reading real UK Companies House filings to detect financial distress | 87.1% accuracy · 16/16 insolvent cases recalled · 100% local |
+| [**MedIntent**](https://github.com/umarkhan0206/medical-intent-classifier) | DistilBERT NHS triage classifier with LIME-driven debugging | 18% → 92.3% real-world reliability across 12 iterations |
+| [**AppointIQ**](https://github.com/umarkhan0206/AppointIQ) | End-to-end ML pipeline predicting NHS appointment no-shows | 83% accuracy · 74.4% recall · 2.2M+ GP records |
+| [**Pharmacy2U**](https://github.com/umarkhan0206/Hackathon_DATA_AI-Prescription_Refill_-_Recommendations) | Prescription adherence risk engine · Data & AI Hackathon 2026 | XGBoost · Drug Load identified as primary risk driver |
 
-## Connect
-🌐 [Portfolio](https://umarkhan0206.github.io) · 💼 [LinkedIn](https://linkedin.com/in/umarkhan0206) · 📧 umarkhaan0206@gmail.com
+---
 
-Open to graduate data science and ML engineering roles in the UK — no sponsorship required from September 2026.
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+**ML & AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00D4AA?style=flat-square)
+
+**Frameworks & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarkhan0206&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E1A&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarkhan0206&layout=compact&theme=dark&hide_border=true&bg_color=0A0E1A&title_color=00D4AA&text_color=ffffff)
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to graduate data science and ML engineering roles in the UK**
+**No sponsorship required from September 2026 🇬🇧**
+
+</div>
