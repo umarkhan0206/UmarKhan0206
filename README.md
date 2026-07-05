@@ -66,6 +66,6 @@
 <div align="center">
 
 **Open to graduate data science and ML engineering roles in the UK**
-**No sponsorship required from September 2026 🇬🇧**
+**No sponsorship required from September 2026**
 
 </div>
